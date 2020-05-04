@@ -22,6 +22,7 @@ body {
 .navigation-bar ul {
     list-style-type: none;
     float: right;
+    margin-right: 30px;
 }
 
 .navigation-bar li {
