@@ -70,7 +70,7 @@ h2 {
     width: 100%;
 }
 
-#projects h3, p {
+#projects h3, #projects p {
     padding-left: 20px;
     padding-right: 20px;
     color: white;
