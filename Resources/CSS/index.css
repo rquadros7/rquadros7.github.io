@@ -2,6 +2,7 @@ body {
     background-color: cadetblue;
     margin: 0px;
     font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
 }
 
 .navigation-bar {
@@ -28,7 +29,6 @@ body {
 .navigation-bar li {
     padding: 10px 10px;
     display: inline-block;
-    font-size: 18px;
 }
 
 li a {
@@ -51,10 +51,6 @@ li a {
     margin: 0px 30px;
     padding: 20px 20px;
     background-color: white;
-}
-
-#about p {
-    font-size: 18px;
 }
 
 h2 {
@@ -85,10 +81,16 @@ h2 {
     width: 100%;
 }
 
-#projects h3, #projects p {
+#projects h3 {
     padding-left: 20px;
     padding-right: 20px;
     color: white;
+}
+
+#projects p {
+    padding: 0px 20px;
+    color: white;
+    font-size: 16px;
 }
 
 #projects a {
