@@ -1,0 +1,21 @@
+body {
+    background-color: cadetblue;
+    margin: 0px;
+}
+
+.navigation-bar {
+    background-color: whitesmoke;
+    position: fixed;
+    width: 100%;
+    display: inline-block;
+}
+
+.navigation-bar ul {
+    list-style-type: none;
+    float: right;
+}
+
+.navigation-bar li {
+    padding: 10px 10px;
+    display: inline-block;
+}
