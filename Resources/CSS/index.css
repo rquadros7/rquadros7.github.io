@@ -9,6 +9,14 @@ body {
     position: fixed;
     width: 100%;
     display: inline-block;
+    height: 70px;
+}
+
+.logo {
+    padding-left: 30px;
+    height: 120px;
+    position: relative;
+    bottom: 30px;
 }
 
 .navigation-bar ul {
