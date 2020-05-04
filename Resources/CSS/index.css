@@ -28,6 +28,7 @@ body {
 .navigation-bar li {
     padding: 10px 10px;
     display: inline-block;
+    font-size: 18px;
 }
 
 li a {
@@ -50,6 +51,10 @@ li a {
     margin: 0px 30px;
     padding: 20px 20px;
     background-color: white;
+}
+
+#about p {
+    font-size: 18px;
 }
 
 h2 {
